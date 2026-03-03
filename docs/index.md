@@ -4,6 +4,14 @@ layout: "home"
 description:  "An overview of ProQuest TDM Studio and tutorial covering its main features"
 permalink: "/"
 created_date:  "2021-09-23"
+staff:
+ - name: Kelly Schultz
+   link: https://library.utoronto.ca/staff/kelly-schultz
+ - name: Neil Aitken
+   link: https://library.utoronto.ca/staff/neil-aitken
+maintainer:
+ - name: Neil Aitken
+   link: https://library.utoronto.ca/staff/neil-aitken
 has_children: False  # Set to True if the page has sub-pages.
 ---
 
