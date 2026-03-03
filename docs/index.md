@@ -9,20 +9,20 @@ has_children: False  # Set to True if the page has sub-pages.
 
 # ProQuest TDM Studio
 
-* What is Proquest TDM Studio?
-* What is Text Analysis?
-* What Tools and Resources are Available for me to Access?
-     * TDM Studio Visualization     
-       * Logging in
-       * Creating a Project and Running Algorithms
-     * TDM Studio Workbench
-       * Creating a Dataset            
-       * Downloading metadata extracts in Workbench
-       * Working with your Data in Workbench
-       * Collaborating in Workbench
-       * Exporting Results
-* FAQs
-* Additional Resources 
+* [What is Proquest TDM Studio?](#what-is-proquest-tdm-studio)
+* [What is Text Analysis?](#what-is-text-analysis)
+* [What Tools and Resources are Available for me to Access?](#what-tools-and-resources-are-available-for-me-to-access)
+     * [TDM Studio Visualization](#tdm-studio-visualization)     
+       * [Logging in](#logging-in)
+       * [Creating a Project and Running Algorithms](#creating-a-project-and-running-algorithms)
+     * [TDM Studio Workbench](#tdm-studio-workbench)
+       * [Creating a Dataset](#creating-a-dataset)            
+       * [Downloading metadata extracts in Workbench](#downloading-metadata-extracts-in-workbench)
+       * [Working with your Data in Workbench](#working-with-your-data-in-workbench)
+       * [Collaborating in Workbench](#collaborating-in-workbench)
+       * [Exporting Results](#exporting-results)
+* [FAQs](#faq)
+* [Additional Resources](#additional-resources) 
 
 ## What is ProQuest TDM Studio?
 ProQuest TDM Studio is a web platform for running text analyses on thousands of ProQuest datasets, including, but not limited to, databases such as ProQuest Dissertations & Theses and the New York Times. TDM Studio has two components: 
