@@ -61,7 +61,7 @@ Once you have created your account and successfully logged in, select *Visualiza
 
 Once logged in, you can build collections of texts called "projects" that can then be analyzed in your browser using TDM Studio visualizations. Visualizations allows you to manage as many as five simultaneous research projects of 10,000 documents each.
 
-<img src="{{ '/assets/images/SC3.jpg' | relative_url' }}" data-entity-uuid="916bddad-09ad-4e4c-8db4-47e1fbf1eb9d" data-entity-type="file" alt="TDM Studio project page displaying project information and design features in a structured format." width="1241" height="791" vspace="20">
+<img src="{{ '/assets/images/SC3.jpg' | relative_url }}" data-entity-uuid="916bddad-09ad-4e4c-8db4-47e1fbf1eb9d" data-entity-type="file" alt="TDM Studio project page displaying project information and design features in a structured format." width="1241" height="791" vspace="20">
 
 Before searching Proquest's databases, you'll need to select which pre-built algorithms you'd like to apply to your search results. Visualizations currently supports *Topic Modelling*, *Geographic Analysis*, and *Sentiment Analysis*, although there are plans to add additional algorithms based on demand. Note that it is currently not possible to customize these algorithms.
 
